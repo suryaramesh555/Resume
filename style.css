@@ -1,0 +1,50 @@
+qualificationTable th{
+    background-color:  #1E435E;
+    color: white;
+    font-weight: lighter;
+}
+#stuName{
+    text-transform: uppercase;
+    color: #1E435E;
+}
+#rolename{
+    text-transform: capitalize;
+    color: #1E435E;
+    font-size: 18px;
+}
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#aboutme{
+    background-color:#1E435E ;
+    text-transform: uppercase;
+    font-size: small;
+    height: 20px;
+    width:200px;
+    text-align: center;
+    color: white;
+    font-weight: lighter;
+    padding: 5px;
+}
+#certification{
+    background-color:#1E435E ;
+    text-transform: uppercase;
+    font-size: small;
+    height: 20px;
+    width:200px;
+    text-align: center;
+    color: white;
+    font-weight: lighter;
+    padding: 5px;
+}
+.internshipClass{
+    background-color:#1E435E ;
+    text-transform: uppercase;
+    font-size: small;
+    height: 20px;
+    width:200px;
+    text-align: center;
+    color: white;
+    font-weight: lighter;
+    padding: 5px;
+}
